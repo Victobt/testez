@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    position: absolute;
+    left: 65%;
+    top: 0%;
+}
+div{
+    background-color: rgba(0, 0, 0, 1.0);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: #fff;
+}
+input{
+    padding: 15px;
+    border: nome;
+    outline: nome;
+    font-size: 15px;
+}
+.botao{
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: #fff;
+}
+
